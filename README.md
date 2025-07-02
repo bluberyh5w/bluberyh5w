@@ -1,4 +1,4 @@
-###Olá! Sou Renan Yuji 
+Olá! Sou Renan Yuji 
 
 - 🔭 Atualmente estou estudando Python
 - 😄 Pronomes: Ele/Dele
