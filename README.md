@@ -1,11 +1,13 @@
-##Olá! Sou Renan Yuji 
+###Olá! Sou Renan Yuji 
 
 - 🔭 Atualmente estou estudando Python
 - 😄 Pronomes: Ele/Dele
 - ⚡ Fato Curisoso: Gosto muito de jogos de tabuleiros e muito interessado em tecnologia
   
 <div>
-  <a href="
+  <a href="https://github.com/bluberyh5w">
+  <!---<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GiovanniZucolin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> --->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluberyh5w&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 
